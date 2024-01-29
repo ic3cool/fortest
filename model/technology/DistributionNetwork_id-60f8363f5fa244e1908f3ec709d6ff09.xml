@@ -1,0 +1,8 @@
+<archimate:DistributionNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="internet"
+    id="id-60f8363f5fa244e1908f3ec709d6ff09">
+  <properties
+      key="public-ip"
+      value="192.129.129.21"/>
+</archimate:DistributionNetwork>
